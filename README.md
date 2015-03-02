@@ -1,4 +1,4 @@
-# Grok Conpendium
+# Grok Compendium
 
 This is a collection of documents and software scripts to make working at Grok easier.
 
