@@ -6,35 +6,24 @@ Great! You are in the right place.
 
 ## New employee checklist
 
-* Fill out required forms
-  * W-4 &mdash; (http://www.irs.gov/uac/Form-W-4)
-  * NDA &mdash; see attached
-  * At will statement &mdash; see attached
-  * Equipment release form (if applicable) &mdash; see attached
-    * Send screenshot of serial number and year of manufacture of any issued equipment
-* Login to Grok email
-* Accept invitations
-  * Trello / Asana / Basecamp / PMToolOfTheMonth
-  * Slack
-  * GoToMeeting
-  * Github
-  * Harvest
-* Fill out Geekdom member application online, http://www.geekdom.com/san-antonio/signup-desk
-* Get key FOB from Geekdom, in person at 110 E Houston St.
-* Record your contact information at (https://sites.google.com/a/grok-interactive.com/grok-info/)
-* Request an office key
-* Inquire about parking
-* Scrum every weekday at 3PM CST
-  * Meeting ID:744-269-517
-  * Over VOIP
-    * accept invite
-    * use link https://global.gotomeeting.com/meeting/join/744269517
-    * headset recommended
-  * Over phone
-    * United States: +1 (213) 493-0604
-    * Access Code: 744-269-517
-    * Audio PIN: Shown after joining the meeting
-
+&#x2751; Fill out required forms
+  &#x2751; W-4 &mdash; (http://www.irs.gov/uac/Form-W-4)
+  &#x2751; NDA &mdash; see attached
+  &#x2751; At will statement &mdash; see attached
+  &#x2751; Equipment release form (if applicable) &mdash; see attached
+    &#x2751; Send screenshot of serial number and year of manufacture of any issued equipment
+&#x2751; Login to Grok email
+&#x2751; Accept invitations
+  &#x2751; Trello / Asana / Basecamp / PMToolOfTheMonth
+  &#x2751; Slack
+  &#x2751; GoToMeeting
+  &#x2751; Github
+  &#x2751; Harvest
+&#x2751; Fill out Geekdom member application online, http://www.geekdom.com/san-antonio/signup-desk
+&#x2751; Get key FOB from Geekdom, in person at 110 E Houston St.
+&#x2751; Record your contact information at (https://sites.google.com/a/grok-interactive.com/grok-info/)
+&#x2751; Request an office key
+&#x2751; Inquire about parking
 
 You will need to sign and turn in the following forms to the office manager: 
 
@@ -53,7 +42,6 @@ Once you log in you should see invitations to the following services:
 * Github &mdash; repository
 
 If you do not see invitations for one or more of these services in your inbox, please reach out to Jason Ellis (jasone@grok-interactive.com) or Jason Straughan (jasons@grok-interactive.com).
-
 
 ## Perks and Benefits
 
@@ -128,6 +116,17 @@ Treat everyone (coworkers, clients, passer-bys, anyone) with respect and dignity
 Every weekday we have a remote Scrum using GoToMeeting. You can use your phone, computer, or tablet to join the meeting.
 
 In the daily Scrum, we go around and each of us talks about what we did the day before, what we are doing that day, and any challenges we have. We like to keep it short -- under 15 minutes if possible. The Scrum takes place at 8 am. Yes, you can go back to bed afterward and come in later, if that's your thing.
+
+* Scrum every weekday at 3PM CST
+  * Meeting ID:744-269-517
+  * Over VOIP
+    * accept invite
+    * use link https://global.gotomeeting.com/meeting/join/744269517
+    * headset recommended
+  * Over phone
+    * United States: +1 (213) 493-0604
+    * Access Code: 744-269-517
+    * Audio PIN: Shown after joining the meeting
 
 ### Work hours
 
