@@ -6,30 +6,45 @@ Great! You are in the right place.
 
 ## New employee checklist
 
-&#x2751; Fill out required forms
-  &#x2751; W-4 &mdash; (http://www.irs.gov/uac/Form-W-4)
-  &#x2751; NDA &mdash; see attached
-  &#x2751; At will statement &mdash; see attached
-  &#x2751; Equipment release form (if applicable) &mdash; see attached
-    &#x2751; Send screenshot of serial number and year of manufacture of any issued equipment
+### Fill out and sign required forms
+
+&#x2751; W-4 &mdash; (http://www.irs.gov/uac/Form-W-4)
+
+&#x2751; NDA &mdash; see attached
+
+&#x2751; At will statement &mdash; see attached
+
+&#x2751; Equipment release form (if applicable) &mdash; see attached
+
+&#x2751; Send screenshot of serial number and year of manufacture of any issued equipment
+
+### Contact Info
+
 &#x2751; Login to Grok email
-&#x2751; Accept invitations
-  &#x2751; Trello / Asana / Basecamp / PMToolOfTheMonth
-  &#x2751; Slack
-  &#x2751; GoToMeeting
-  &#x2751; Github
-  &#x2751; Harvest
-&#x2751; Fill out Geekdom member application online, http://www.geekdom.com/san-antonio/signup-desk
-&#x2751; Get key FOB from Geekdom, in person at 110 E Houston St.
+
 &#x2751; Record your contact information at (https://sites.google.com/a/grok-interactive.com/grok-info/)
+
+&#x2751; Login to Slack
+
+### Accept invitations to apps
+
+&#x2751; Trello / Asana / Basecamp / PMToolOfTheMonth
+
+&#x2751; GoToMeeting
+
+&#x2751; GitHub
+
+&#x2751; Harvest
+
+### For employees living in San Antonio
+
+&#x2751; Fill out Geekdom member application online, http://www.geekdom.com/san-antonio/signup-desk
+
+&#x2751; Get key FOB from Geekdom, in person at 110 E Houston St.
+
 &#x2751; Request an office key
+
 &#x2751; Inquire about parking
-
-You will need to sign and turn in the following forms to the office manager: 
-
-* Non-disclosure agreement
-* Equipment release form (if you are issued equipment)
-* At will statement.
 
 Next, record the serial number(s) and year(s) of manufacture of any equipment, such as a laptop, issued to you by Grok Interactive. Do this on a Mac by clicking the Apple icon, selecting "About This Mac", taking a screenshot, and sending it to the office manager. If you are feeling really nice, name the file `typeOfEquipment\_firstnameLastname` before sending it, for example `MacBookAir\_AlfredNewman`.
 
