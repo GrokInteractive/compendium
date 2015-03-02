@@ -6,7 +6,7 @@ Great! You are in the right place.
 
 ## New employee checklist
 
-### Fill out and sign required forms
+#### Fill out and sign required forms
 
 &#x2751; W-4 &mdash; (http://www.irs.gov/uac/Form-W-4)
 
@@ -18,7 +18,7 @@ Great! You are in the right place.
 
 &#x2751; Send screenshot of serial number and year of manufacture of any issued equipment
 
-### Contact Info
+#### Contact Info
 
 &#x2751; Login to Grok email
 
@@ -26,7 +26,7 @@ Great! You are in the right place.
 
 &#x2751; Login to Slack
 
-### Accept invitations to apps
+#### Accept invitations to apps
 
 &#x2751; Trello / Asana / Basecamp / PMToolOfTheMonth
 
@@ -36,7 +36,7 @@ Great! You are in the right place.
 
 &#x2751; Harvest
 
-### For employees living in San Antonio
+#### For employees living in San Antonio
 
 &#x2751; Fill out Geekdom member application online, http://www.geekdom.com/san-antonio/signup-desk
 
@@ -168,15 +168,31 @@ We use Harvest for time tracking. You can find our Harvest at https://grokintera
 * Harvest is how we track our time 
 * It is a big deal; it is how we earn money
 * All tasks should be entered
-* It is especially important to record commit messages and hashes
+* It is especially important to record commit messages and hashes in each entry
 * Smaller chunks of time are better
 * Try to keep chunks of time under two hours
 * Do not leave the description field empty
 * Keep it concise.
 
-TODO: (How to use Harvest)
-
 ### Trello
+
+Trello is our preferred board for managing our projects.
+
+We use the following columns as a general template
+
+SEE: https://trello.com/b/09QiNnDM/development-template
+
+* Assets &mdash; These are assets for the project. As new ones arrive, we'll put them here.
+* Research &mdash; Research and Discovery - items that need more understanding to proceed.
+* Backlog &mdash; These are UNAPPROVED items that will be added to TODO lists as needed.
+* TODO Backend &mdash; APPROVED tasks ready to be developed.
+* TODO Frontend &mdash; APPROVED tasks ready to be developed.
+* Doing &mdash; Currently being worked by a developer.
+* Pull Request / QA &mdash; Completed cards in code review and QA.
+* Staging &mdash; Tasks pushed to Staging server
+* Production &mdash; Tasks pushed to Production server
+
+As you work on a card, be sure to assign it to yourself and move to the appropriate column in Trello.
 
 ### Slack
 
