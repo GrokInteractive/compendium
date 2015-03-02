@@ -202,14 +202,18 @@ To learn more about Slack, please visit https://slack.com/is/team-communication
 
 ### GotoMeeting
 
+Download GTM http://support.citrixonline.com/en_US/Meeting/help_files/G2M010002?Title=Download+GoToMeeting
+
+Most of our meetings are conducted via GTM. We will post links in the calendar invites for all meetings.
+
 ### GitHub
 
-### Asana
+You will need a GitHub account that will be linked to the Grok organization account. 
 
 ### Other Software
 
-### Text Editor / IDE
-Use the text editor of your choice. 
+#### Text Editor / IDE
+Use the text editor of your choice, unless it is emacs :)
 
 ### Recommended Software
 We recommend using a password manager like LastPass.
