@@ -180,7 +180,7 @@ Trello is our preferred board for managing our projects.
 
 We use the following columns as a general template
 
-SEE: https://trello.com/b/09QiNnDM/development-template
+SEE: https://trello.com/b/09QiNnDM/grok-development-template
 
 * Assets &mdash; These are assets for the project. As new ones arrive, we'll put them here.
 * Research &mdash; Research and Discovery - items that need more understanding to proceed.
