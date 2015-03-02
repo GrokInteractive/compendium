@@ -196,6 +196,10 @@ As you work on a card, be sure to assign it to yourself and move to the appropri
 
 ### Slack
 
+We use Slack as our company wide chat system.
+
+To learn more about Slack, please visit https://slack.com/is/team-communication
+
 ### GotoMeeting
 
 ### GitHub
