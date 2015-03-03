@@ -215,5 +215,16 @@ You will need a GitHub account that will be linked to the Grok organization acco
 #### Text Editor / IDE
 Use the text editor of your choice, unless it is emacs :)
 
-### Recommended Software
+#### Screencast
+
+Use Licecap to capture a screencast as a gif. Great to put in trello cards, slack chats, emails, really anywhere you need to share a snippet of video.
+
+#### SSH tunnel
+
+https://ngrok.com/
+
+Use ngrok to set up an SSH tunnel to your work in progress on your dev box. This can easily be shared with teammates for collaboration.
+
+### Misc Recommended Software
+
 We recommend using a password manager like LastPass.
