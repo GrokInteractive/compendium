@@ -8,13 +8,17 @@ Great! You are in the right place.
 
 #### Fill out and sign required forms
 
-&#x2751; W-4 &mdash; (http://www.irs.gov/uac/Form-W-4)
+&#x2751; Full-time employees &mdash; W-4 &mdash; (http://www.irs.gov/uac/Form-W-4)
 
-&#x2751; NDA &mdash; see attached
+&#x2751; Contractors &mdash; Independent contractors agreements
 
-&#x2751; At will statement &mdash; see attached
+&#x2751; I9 &mdash; http://www.uscis.gov/sites/default/files/files/form/i-9.pdf
 
-&#x2751; Equipment release form (if applicable) &mdash; see attached
+&#x2751; NDA &mdash; attached
+
+&#x2751; At will statement &mdash; attached
+
+&#x2751; Equipment release form (if applicable) &mdash; attached
 
 &#x2751; Send screenshot of serial number and year of manufacture of any issued equipment
 
@@ -130,18 +134,7 @@ Treat everyone (coworkers, clients, passer-bys, anyone) with respect and dignity
 
 Every weekday we have a remote Scrum using GoToMeeting. You can use your phone, computer, or tablet to join the meeting.
 
-In the daily Scrum, we go around and each of us talks about what we did the day before, what we are doing that day, and any challenges we have. We like to keep it short -- under 15 minutes if possible. The Scrum takes place at 8 am. Yes, you can go back to bed afterward and come in later, if that's your thing.
-
-* Scrum every weekday at 3PM CST
-  * Meeting ID:744-269-517
-  * Over VOIP
-    * accept invite
-    * use link https://global.gotomeeting.com/meeting/join/744269517
-    * headset recommended
-  * Over phone
-    * United States: +1 (213) 493-0604
-    * Access Code: 744-269-517
-    * Audio PIN: Shown after joining the meeting
+In the daily Scrum, we go around and each of us talks about what we did the day before, what we are doing that day, and any challenges we have. We like to keep it short &mdash; under 15 minutes if possible. 
 
 ### Work hours
 
