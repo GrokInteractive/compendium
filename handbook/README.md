@@ -223,7 +223,7 @@ Use Licecap to capture a screencast as a gif. Great to put in trello cards, slac
 
 https://ngrok.com/
 
-Use ngrok to set up an SSH tunnel to your work in progress on your dev box. This can easily be shared with teammates for collaboration.
+Use `ngrok` to set up an SSH tunnel to your work in progress on your dev box. This can easily be shared with teammates for collaboration.
 
 ### Misc Recommended Software
 
