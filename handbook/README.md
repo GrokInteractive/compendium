@@ -51,7 +51,7 @@ Next, record the serial number(s) and year(s) of manufacture of any equipment, s
 Your Grok Interactive email is a GMail account and follows the format `firstname.lastname@grok-interactive.com`. Once your email has been created by an administrator you can login with the credentials provided to you.
 
 Once you log in you should see invitations to the following services: 
-* Trello &mdash; for project workflow
+* Trello &mdash; for project work-flow
 * Slack &mdash; for team messaging
 * GoToMeeting &mdash; for meetings
 * Github &mdash; repository
@@ -155,9 +155,9 @@ You can work part of your week remotely. We ask that you be in the office at lea
 
 ## Using our Software
 
-We aim to keep the number of tools we use to a minimum, and use the best tool for the job. If you have any suggestions of better tooling for our workflow, we are always open to new ways.
+We aim to keep the number of tools we use to a minimum, and use the best tool for the job. If you have any suggestions of better tooling for our work-flow, we are always open to new ways.
 
-Below you will find links and workflow for some of the more common applications used at Grok.
+Below you will find links and work-flow for some of the more common applications used at Grok.
 
 ### Harvest
 

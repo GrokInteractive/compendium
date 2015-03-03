@@ -14,7 +14,7 @@ The more information you can provide for an issue, the better. Please provide st
 
 http://www.cockos.com/licecap/
 
-Use LiCEcap to capture a screencast as a gif. Great to put in trello cards, slack chats, emails, really anywhere you need to share a snippet of video.
+Use LiCEcap to capture a screencast as a `.gif`. Great to put in Trello cards, Slack chats, email; really anywhere you need to share a snippet of video.
 
 ## Pre-Flight Checklist
 

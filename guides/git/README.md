@@ -1,8 +1,8 @@
-Git Work Flow
+# Our git work-flow
 
 We use `git` for our source code management, and host our repositories on GitHub. 
 
-We follow a workflow heavy on feature branches. No employee should be forking private repositories from the Grok GitHub to any personal accounts, private or otherwise.
+We follow a work-flow heavy on feature branches. No employee should be forking private repositories from the Grok GitHub to any personal accounts, private or otherwise.
 
 ### Recommended Reading
 

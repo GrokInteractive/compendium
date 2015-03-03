@@ -17,7 +17,7 @@
 
 tl;dr review your own code before someone else does.
 
-### Pre-review workflow
+### Pre-review work-flow
 
 1. Complete the feature in a feature branch
 2. Push all code to GitHub
