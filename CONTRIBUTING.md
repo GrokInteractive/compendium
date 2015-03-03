@@ -1,4 +1,8 @@
-Anyone can contribute to the repository. Your input and changes are always welcome.
+# Contributing to the Grok Compendium
+
+Anyone can contribute to this repository. 
+
+Your input and changes are always welcome.
 
 Please follow these guides for contributing changes to this repository:
 

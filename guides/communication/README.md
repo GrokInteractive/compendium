@@ -2,7 +2,7 @@
 
 ## Internal Team Communication
 
-Team members are not always in the same location. As a result, Grok has embraced many forms of communications. Each of these have qualities that make them useful, however, choosing the best tool for the need is required.
+Team members are not always in the same location. As a result, Grok has embraced many forms of communication. Each of these have qualities that make them useful, however, choosing the best tool for the need is required.
 
 ### Email
 
