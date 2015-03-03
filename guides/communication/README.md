@@ -28,7 +28,7 @@ You are encouraged to use Slack on desktop and mobile, and to turn on notificati
 
 Text messages are reserved for high priority, and should be used sparingly, and usually by the leadership team only.
 
-#### Phone Call
+### Phone Call
 
 **Priority: UBER** &mdash; immediate response required.
 
