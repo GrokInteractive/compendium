@@ -142,6 +142,18 @@ Speaking of which, what are the work hours at Grok like? We believe in work-life
 
 The Grok business day ends at 6PM CST, and our work week is from Monday through Friday. While it is sometimes necessary to work outside these hours, we expect Grokers to get their work done during the workday and enjoy their nights and weekends.
 
+#### Professional Development Time
+
+If you have completed 32 billable client hours in a week, you are encouraged to use your remaining time to work on professional development.
+
+These activities can include, but are not limited to:
+
+* Internal Products &mdash; Grok continues to develop products for internal and public use. You are encouraged to contribute to these products, or pitch ideas for new ones. See www.elFormo.com and www.Jekyll-Plugins.com as examples.
+* Open Source &mdash; Contributing to open source projects, especially ones that Grok uses, is a great way to give back to the community while developing your skills.
+* Creating open source projects &mdash; Ruby gems, small projects, POCs, etc
+* Blogging &mdash; The Grok Blog does not just write itself. Learn something cool? Build something you want to share? Have a strong opinion you must share with the community? Blog about it and we'll post it!
+* Hacking &mdash; Hack away on a problem, build a RaspberryPi project, hack the coffee maker, whatever. Try to keep a focus on the team - do stuff that benefits us all. If you learn something in the process, please share.
+
 ### Working remotely
 
 You can work part of your week remotely. We ask that you be in the office at least 50% of your time if possible. We do this because it helps with communication. The rest of the time, work from wherever you wish.
