@@ -13,9 +13,3 @@ Please follow these guides for contributing changes to this repository:
 * Create a new feature branch with your changes
 * Push your changes, including any issues in your commit messages
 * Issue a Pull Request to `master` and alert a member of the leadership team for review
-
-## Notes for contributions
-
-Don't do Markdown links (e.g. [this](http://google.com)). Since this guide will be printed out, those URLs won't be visible. Instead, do Google (http://google.com).
-
-Double check all spelling and grammar.
