@@ -10,6 +10,10 @@ This document provides links to resources Grokers find beneficial for continuing
 - [**Domain-Driven Design: Tackling Complexity in the Heart of Software** by Eric Evans](https://www.safaribooksonline.com/library/view/domain-driven-design-tackling/0321125215/)
 - [**Decoupling from Rails** by Jim Weirich, _CincyRb October 2013_](https://www.youtube.com/watch?v=tg5RFeSfBM4)
 
+### Command-Query Responsibility Segregation & Event Sourcing
+
+- [**Event Sourcing** by Greg Young, _GOTO Aarhus 2014_](https://www.youtube.com/watch?v=8JKjvY4etTY)
+
 ### Design Patterns
 
 - [**Nothing is Something** by Sandi Metz, _RailsConf2015_](https://www.youtube.com/watch?v=29MAL8pJImQ)
