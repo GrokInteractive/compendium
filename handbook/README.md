@@ -8,17 +8,17 @@ Great! You are in the right place.
 
 #### Fill out and sign required forms
 
-&#x2751; Full-time employees &mdash; W-4 &mdash; (http://www.irs.gov/uac/Form-W-4)
+&#x2751; Full-time employees &mdash; W-4 &mdash; https://www.irs.gov/pub/irs-pdf/fw4.pdf
 
 &#x2751; Contractors &mdash; Independent contractors agreements
 
 &#x2751; I9 &mdash; http://www.uscis.gov/sites/default/files/files/form/i-9.pdf
 
-&#x2751; NDA &mdash; attached
+&#x2751; NDA &mdash; [See Documents]
 
-&#x2751; At will statement &mdash; attached
+&#x2751; At will statement &mdash; [See Documents]
 
-&#x2751; Equipment release form (if applicable) &mdash; attached
+&#x2751; Equipment release form (if applicable) &mdash; [See Documents]
 
 &#x2751; Send screenshot of serial number and year of manufacture of any issued equipment
 
@@ -26,7 +26,7 @@ Great! You are in the right place.
 
 &#x2751; Login to Grok email
 
-&#x2751; Record your contact information at (https://sites.google.com/a/grok-interactive.com/grok-info/)
+&#x2751; Record your contact information at https://sites.google.com/a/grok-interactive.com/grok-info/
 
 &#x2751; Login to Slack
 
