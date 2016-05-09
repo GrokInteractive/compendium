@@ -1,12 +1,14 @@
 # Welcome to Grok Interactive!
 
-Are you a new Grok employee or contractor? 
+Are you a new Grok employee or contractor?  Great! You are in the right place.
 
-Great! You are in the right place.
+Firstly welcome!  We are glad to have you here and look forward to working with you.  
 
 ## New employee checklist
 
-#### Fill out and sign required forms
+As a new employee we have a number of forms that we need you to physically fill out and send to one of the Jason's.  Just print these out, sign them and send them back in.
+
+### Fill out and sign required forms
 
 &#x2751; Full-time employees &mdash; W-4 &mdash; https://www.irs.gov/pub/irs-pdf/fw4.pdf
 
@@ -14,31 +16,38 @@ Great! You are in the right place.
 
 &#x2751; I9 &mdash; http://www.uscis.gov/sites/default/files/files/form/i-9.pdf
 
-&#x2751; NDA &mdash; [See Documents]
+&#x2751; NDA &mdash; [See Documents Folder]
 
-&#x2751; At will statement &mdash; [See Documents]
+&#x2751; At will statement &mdash; [See Documents Folder]
 
-&#x2751; Equipment release form (if applicable) &mdash; [See Documents]
+If you're given any equipment (Laptop most likely) then you'll need to fill out and return the following;
+&#x2751; Equipment release form (if applicable) &mdash; [See Documents Folder]
 
 &#x2751; Send screenshot of serial number and year of manufacture of any issued equipment
 
-#### Contact Info
 
-&#x2751; Login to Grok email
+### Log into your Grok Email Account
+
+You should have gotten your Grok email account setup by now.  Your email at grok will be `{firstname}.{lastname}@grok-interactive.com` as well as having an alias setup using the format `{firstname}{last initial}@grok-interactive.com`. 
+
+You'll have @grok-interactive.com, @grok.rocks and @grok.fm as domains. Examples; `jason.ellis@grok-interactive.com`, `jasone@grok-interactive.com`, `jason.ellis@grok.rocks`..etc... Once your email has been created by an administrator you can login with the credentials provided to you.
+
+Once you log in you should see invitations to the following services: 
+&#x2751;  Trello &mdash; for project work-flow
+&#x2751;  Slack &mdash; for team messaging
+&#x2751;  GoToMeeting &mdash; for meetings
+&#x2751;  Github &mdash; Git/Code repository
+&#x2751;  Harvest &mdash; Time tracking
+&#x2751;  TalkRoute &mdash; Phone system
+&#x2751;  Zenefits &mdash; Payroll and Medical
+
+If you do not see invitations for one or more of these services in your inbox, please reach out to Jason Ellis (jasone@grok-interactive.com) or Jason Straughan (jasons@grok-interactive.com).
+
+
+#### Contact Info
 
 &#x2751; Record your contact information at https://sites.google.com/a/grok-interactive.com/grok-info/
 
-&#x2751; Login to Slack
-
-#### Accept invitations to apps
-
-&#x2751; Trello / Asana / Basecamp / PMToolOfTheMonth
-
-&#x2751; GoToMeeting
-
-&#x2751; GitHub
-
-&#x2751; Harvest
 
 #### For employees living in San Antonio
 
@@ -52,15 +61,6 @@ Great! You are in the right place.
 
 Next, record the serial number(s) and year(s) of manufacture of any equipment, such as a laptop, issued to you by Grok Interactive. Do this on a Mac by clicking the Apple icon, selecting "About This Mac", taking a screenshot, and sending it to the office manager. If you are feeling really nice, name the file `typeOfEquipment\_firstnameLastname` before sending it, for example `MacBookAir\_AlfredNewman`.
 
-Your Grok Interactive email is a GMail account and follows the format `firstname.lastname@grok-interactive.com`. Once your email has been created by an administrator you can login with the credentials provided to you.
-
-Once you log in you should see invitations to the following services: 
-* Trello &mdash; for project work-flow
-* Slack &mdash; for team messaging
-* GoToMeeting &mdash; for meetings
-* Github &mdash; repository
-
-If you do not see invitations for one or more of these services in your inbox, please reach out to Jason Ellis (jasone@grok-interactive.com) or Jason Straughan (jasons@grok-interactive.com).
 
 ## Perks and Benefits
 
@@ -130,15 +130,15 @@ Treat everyone (coworkers, clients, passer-bys, anyone) with respect and dignity
 
 ![Be excellent to each other](http://media.giphy.com/media/POekkUcKs16gg/giphy.gif)
 
-### Daily Scrum
+### Daily and Weekly Scrums
 
-Every weekday we have a remote Scrum using GoToMeeting. You can use your phone, computer, or tablet to join the meeting.
+Every Wednesday we have a company wide scrum. We use http://appear.in to all join together to get/give a state of the union around Grok.
 
-In the daily Scrum, we go around and each of us talks about what we did the day before, what we are doing that day, and any challenges we have. We like to keep it short &mdash; under 15 minutes if possible. 
+Some clients have weekly or even daily scrums that we participate in.  This will depend on which client you're working with.  See the company calendar.
 
 ### Work hours
 
-Speaking of which, what are the work hours at Grok like? We believe in work-life balance. We avoid working on the weekend if possible. Most employees come in between 9 am and 9:30 am, some come in later and stay later. The number of hours worked is less important than getting your work done done well. Billable time is better than non-billable time. Your weekly goal is 32 hours of client work, and 8 hours of internal or professional growth time.
+Speaking of which, what are the work hours at Grok like? We believe in work-life balance. We avoid working on the weekend if possible. Most employees come in between 9 am and 9:30 am, some come in later and stay later. The number of hours worked is less important than getting your work done done well. Billable time is better than non-billable time. *Your weekly goal is 32 hours of client work*, and 8 hours of internal or professional growth time.
 
 The Grok business day ends at 6PM CST, and our work week is from Monday through Friday. While it is sometimes necessary to work outside these hours, we expect Grokers to get their work done during the workday and enjoy their nights and weekends.
 
@@ -218,7 +218,8 @@ You will need a GitHub account that will be linked to the Grok organization acco
 ### Other Software
 
 #### Text Editor / IDE
-Use the text editor of your choice, unless it is emacs :)
+
+Use the text editor of your choice, unless it is emacs -- then you're just wrong and shouldn't hate yourself so much.  :)
 
 #### Screencast
 
@@ -232,4 +233,4 @@ Use `ngrok` to set up an SSH tunnel to your work in progress on your dev box. Th
 
 ### Misc Recommended Software
 
-We recommend using a password manager like LastPass.
+We recommend using a password manager like LastPass or 1Password.
